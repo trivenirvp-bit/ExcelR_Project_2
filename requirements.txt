@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+seaborn
+scikit-learn
+transformers
+accelerate
+datasets
+torch
+huggingface_hub
+pandas
